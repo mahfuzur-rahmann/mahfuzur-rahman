@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahfuzur Rahman</h1>
 <h3 align="center">I am passionate about the field of software engineering and am always looking for new challenges and opportunities to improve my skills and knowledge.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuzur-rahmann&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuzur-rahmann" /> </p>
+/*<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuzur-rahmann&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuzur-rahmann" /> </p> */
 
 
 
