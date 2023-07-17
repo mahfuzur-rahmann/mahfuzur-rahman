@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuzur-rahmann&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuzur-rahmann" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahfuzur-rahmann" alt="mahfuzur-rahmann" /></a> </p>
+
 
 - 🔭 I’m currently working with [Dev Skill](https://devskill.com/)
 
